@@ -1,4 +1,4 @@
-# vue-smooth-scroll-animations
+# vue-smooth-animate-on-scroll
 
 ## Project setup
 ```
